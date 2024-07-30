@@ -1,0 +1,1001 @@
+StudentID,Name,Age,Gender,GPA,Major
+S00001,Bstclemi,22,Female,2.62,Mathematics
+S00002,Tpocrfzt,22,Male,3.11,Computer Science
+S00003,Qlzgizng,24,Male,3.65,Engineering
+S00004,Aomwkwqp,21,Male,3.47,Engineering
+S00005,Bjraswfr,23,Male,2.02,Biology
+S00006,Zmapnfwj,18,Male,3.41,Computer Science
+S00007,Csaaujjs,20,Male,3.36,Mathematics
+S00008,Xoajjdpf,22,Male,3.42,Computer Science
+S00009,Rthvpsme,25,Male,3.79,Computer Science
+S00010,Yhhkobft,21,Male,2.2,Chemistry
+S00011,Rbbwpija,22,Male,3.46,Economics
+S00012,Clauqqec,20,Female,2.61,Chemistry
+S00013,Chytxxyr,22,Male,2.58,Mathematics
+S00014,Njxtneoq,25,Female,3.75,Physics
+S00015,Qaffsjkq,19,Male,2.11,Physics
+S00016,Edxephck,22,Male,2.16,Economics
+S00017,Fjmmpvnl,24,Female,3.71,Engineering
+S00018,Bahhjknu,23,Female,2.08,Economics
+S00019,Pjqiztib,20,Female,2.86,Computer Science
+S00020,Yinhzkxg,20,Female,2.03,Economics
+S00021,Ujtylssr,24,Female,2.88,Computer Science
+S00022,Tdbowaiq,23,Female,3.61,Mathematics
+S00023,Tyqiztpj,23,Female,2.24,Biology
+S00024,Lfwtdqgq,19,Female,3.19,Economics
+S00025,Hlvzwhve,20,Female,3.52,Computer Science
+S00026,Knaxtzte,18,Male,2.88,Chemistry
+S00027,Jtnxguap,21,Male,2.42,Biology
+S00028,Wbsyzbnc,19,Female,3.08,Physics
+S00029,Pshxtawq,22,Male,3.41,Computer Science
+S00030,Yauusbdy,21,Female,2.96,Engineering
+S00031,Ojlkmeiq,19,Female,2.08,Chemistry
+S00032,Rthpcvif,22,Female,3.67,Engineering
+S00033,Rgamkqdl,23,Female,2.02,Chemistry
+S00034,Ipzfuuqm,25,Female,3.85,Computer Science
+S00035,Eitsbyrp,18,Male,3.1,Biology
+S00036,Uvvfxqdp,19,Male,2.14,Computer Science
+S00037,Gmhmjhgr,21,Female,3.46,Mathematics
+S00038,Ovhdicgr,24,Female,3.86,Economics
+S00039,Jpslfgbx,21,Male,3.74,Chemistry
+S00040,Sozardei,24,Female,3.6,Chemistry
+S00041,Vhskrcrn,20,Female,3.51,Computer Science
+S00042,Xlbzyebt,21,Female,3.14,Economics
+S00043,Xxwpohka,20,Male,3.86,Chemistry
+S00044,Sjtgsvob,23,Male,3.44,Physics
+S00045,Kzjzkrxr,25,Male,2.69,Physics
+S00046,Fartxzcg,23,Female,2.41,Mathematics
+S00047,Czgixnzj,24,Male,2.8,Biology
+S00048,Qmednwtb,18,Male,3.08,Chemistry
+S00049,Vllihskk,25,Female,2.18,Biology
+S00050,Afwtqjxv,21,Female,3.25,Physics
+S00051,Npghtnjb,24,Female,2.05,Mathematics
+S00052,Avqukzgj,20,Female,3.2,Physics
+S00053,Qpgfkwrd,21,Female,3.44,Chemistry
+S00054,Vdweklou,25,Female,3.81,Engineering
+S00055,Cxkqcpni,23,Male,3.17,Biology
+S00056,Dmcviquo,21,Female,2.45,Physics
+S00057,Angghlxy,24,Male,2.91,Computer Science
+S00058,Hxdcgcaf,21,Male,2.96,Biology
+S00059,Dcfrihfz,25,Male,2.37,Computer Science
+S00060,Cmeqsxzi,22,Female,2.05,Biology
+S00061,Uxtzqkma,23,Male,3.9,Engineering
+S00062,Hvhtwpfo,23,Female,3.37,Mathematics
+S00063,Npuhskgg,21,Female,3.44,Economics
+S00064,Vhaalkma,21,Male,3.64,Mathematics
+S00065,Mnewhayx,22,Female,2.85,Chemistry
+S00066,Kmpfvevi,19,Female,3.69,Chemistry
+S00067,Pukjlaof,23,Male,3.49,Chemistry
+S00068,Vbhkwhib,23,Male,3.73,Physics
+S00069,Pfrjolge,21,Male,3.63,Economics
+S00070,Tdtarvne,21,Male,3.93,Economics
+S00071,Isskshav,24,Female,2.82,Economics
+S00072,Kvdrdpem,24,Male,3.55,Chemistry
+S00073,Mpnlvwhy,18,Female,2.99,Mathematics
+S00074,Epxrqsuh,22,Male,2.98,Engineering
+S00075,Zeeduivs,23,Male,3.27,Computer Science
+S00076,Mntbsoii,19,Female,3.54,Physics
+S00077,Xiaqhods,19,Male,3.06,Biology
+S00078,Ijamfbhl,18,Male,3.33,Biology
+S00079,Fkwngdpf,24,Female,3.69,Economics
+S00080,Lelgosel,22,Female,3.66,Chemistry
+S00081,Wnfvzskr,22,Female,3.76,Engineering
+S00082,Remlpenv,23,Female,3.9,Engineering
+S00083,Wowzulgk,25,Female,2.93,Biology
+S00084,Saflnvgt,21,Male,3.61,Computer Science
+S00085,Gyywadik,22,Male,2.21,Biology
+S00086,Faquneeb,18,Male,3.33,Chemistry
+S00087,Qunrvvrv,18,Male,3.8,Economics
+S00088,Idkghofy,21,Male,3.15,Computer Science
+S00089,Mfhlirzm,23,Female,3.47,Biology
+S00090,Otuojcvn,19,Female,2.37,Economics
+S00091,Sybixgsp,20,Male,3.87,Economics
+S00092,Zlvwzayr,24,Male,3.34,Engineering
+S00093,Rcxfwhyv,23,Female,2.54,Chemistry
+S00094,Vjnjurbh,20,Female,3.24,Physics
+S00095,Hhwaiynt,18,Male,3.23,Biology
+S00096,Eeitrgum,22,Female,3.79,Economics
+S00097,Xwlezohh,25,Male,3.54,Mathematics
+S00098,Muqaylxe,20,Female,3.54,Chemistry
+S00099,Tulwnzsq,21,Female,3.95,Computer Science
+S00100,Xbyouueu,21,Male,2.92,Engineering
+S00101,Giakmcjn,19,Female,2.05,Mathematics
+S00102,Xalkqlev,25,Male,2.22,Chemistry
+S00103,Hyzjnaji,19,Male,3.92,Physics
+S00104,Tfckpxdc,20,Female,2.3,Physics
+S00105,Lsszvkkc,20,Female,2.39,Computer Science
+S00106,Bqbrmilg,22,Female,3.13,Physics
+S00107,Mrgyopen,18,Female,2.04,Biology
+S00108,Nzyrtamn,20,Female,2.78,Physics
+S00109,Gcmihfsg,21,Male,3.67,Physics
+S00110,Uztmsgsi,19,Female,2.91,Engineering
+S00111,Ysmtzhec,18,Male,3.24,Physics
+S00112,Zaqmxrcd,21,Female,2.39,Computer Science
+S00113,Xhqpwzol,18,Female,2.86,Economics
+S00114,Cizloegb,21,Female,3.19,Biology
+S00115,Avcqmcvj,20,Female,3.27,Chemistry
+S00116,Myajcatj,18,Male,2.21,Engineering
+S00117,Qvydhvrl,23,Male,3.53,Economics
+S00118,Pmiblvtk,25,Male,3.53,Computer Science
+S00119,Wrqrqxif,18,Male,2.02,Economics
+S00120,Wpqgobwd,23,Female,3.47,Engineering
+S00121,Vwzufadd,18,Female,2.44,Engineering
+S00122,Ndbbynkb,21,Female,3.94,Engineering
+S00123,Pljcmkbx,20,Male,3.96,Physics
+S00124,Irhxearx,23,Male,3.28,Engineering
+S00125,Eomkjmmy,20,Male,2.35,Economics
+S00126,Xrhadxmq,21,Female,2.56,Physics
+S00127,Nvodkkhl,25,Female,2.96,Physics
+S00128,Iqxbeslg,22,Female,3.84,Computer Science
+S00129,Flimzydw,18,Male,2.03,Engineering
+S00130,Yrhghabg,20,Male,3.52,Mathematics
+S00131,Wqzphbxj,21,Male,3.69,Physics
+S00132,Pjkkrqhh,23,Female,2.3,Computer Science
+S00133,Hhqasgiu,23,Male,3.54,Economics
+S00134,Nhirjctu,24,Male,3.66,Biology
+S00135,Opjzsmhv,18,Female,2.79,Physics
+S00136,Cspinruo,18,Female,3.95,Engineering
+S00137,Wrrehjcl,24,Male,2.58,Mathematics
+S00138,Blmkimcp,18,Male,3.12,Mathematics
+S00139,Ostuxwlr,19,Female,2.14,Physics
+S00140,Gijusgkl,23,Male,2.63,Economics
+S00141,Eawezmat,21,Male,2.25,Physics
+S00142,Wejwvfus,25,Male,2.59,Economics
+S00143,Zujlebjv,18,Male,3.93,Engineering
+S00144,Nhupunkk,19,Female,2.39,Physics
+S00145,Orkbyoll,25,Male,3.57,Computer Science
+S00146,Iopraytx,20,Female,2.09,Computer Science
+S00147,Rklbbtss,23,Female,3.37,Physics
+S00148,Knabgzov,23,Female,3.29,Physics
+S00149,Lpgbrukl,23,Female,3.07,Chemistry
+S00150,Bresdmwj,25,Female,3.74,Computer Science
+S00151,Mdvczgql,20,Male,3.65,Computer Science
+S00152,Zlhuwqtb,24,Female,2.6,Engineering
+S00153,Vvqofuyw,24,Male,2.77,Economics
+S00154,Stpbhhfq,24,Male,2.98,Chemistry
+S00155,Hdvowcbx,24,Male,3.99,Mathematics
+S00156,Adtvfmcp,22,Male,2.89,Economics
+S00157,Yksujwmu,19,Female,3.06,Biology
+S00158,Sgbkgndp,20,Male,2.04,Economics
+S00159,Qnxbuyka,19,Male,2.54,Chemistry
+S00160,Onbgarvj,20,Female,3.85,Biology
+S00161,Wsndcxac,18,Male,3.4,Mathematics
+S00162,Awibyijh,21,Male,3.2,Engineering
+S00163,Amhvyncw,19,Male,3.99,Economics
+S00164,Bmmbyypo,24,Female,3.11,Biology
+S00165,Zywnfszu,25,Female,2.03,Economics
+S00166,Aevsauuo,24,Female,3.33,Computer Science
+S00167,Mfzrxjiy,22,Female,3.24,Engineering
+S00168,Urddtqxi,24,Male,2.21,Engineering
+S00169,Lobwtedh,19,Male,2.52,Physics
+S00170,Fakeixgo,21,Female,3.81,Economics
+S00171,Hysagdtk,18,Male,2.4,Physics
+S00172,Fmwmljoc,22,Male,2.13,Chemistry
+S00173,Zwdavdxr,21,Male,3.91,Economics
+S00174,Cksdkpsg,23,Female,2.42,Chemistry
+S00175,Uicsehoj,24,Male,3.35,Computer Science
+S00176,Rkfaiffd,18,Male,2.68,Engineering
+S00177,Ggteiaow,20,Female,2.49,Engineering
+S00178,Uaghwvej,21,Male,2.53,Chemistry
+S00179,Ebcalhlh,25,Female,2.96,Chemistry
+S00180,Hyjgjkhq,21,Male,3.95,Mathematics
+S00181,Tezaiexv,23,Male,3.89,Engineering
+S00182,Jnupqvaa,20,Male,2.43,Chemistry
+S00183,Vjfjkpvc,22,Female,2.22,Chemistry
+S00184,Epvipgat,19,Male,2.18,Computer Science
+S00185,Ykvfrbjg,19,Male,3.91,Computer Science
+S00186,Dptdyodk,19,Male,3.08,Physics
+S00187,Cjzqymff,21,Female,3.14,Chemistry
+S00188,Ylrkpwcu,20,Female,2.13,Physics
+S00189,Apznbcmw,23,Female,3.05,Engineering
+S00190,Evhzweji,21,Female,2.58,Engineering
+S00191,Hubeecll,24,Female,2.28,Chemistry
+S00192,Ugmteizo,19,Female,3.2,Mathematics
+S00193,Umotllaq,25,Male,3.92,Mathematics
+S00194,Bwwvrazi,22,Male,3.45,Computer Science
+S00195,Kxkmmajd,19,Male,3.03,Biology
+S00196,Ltqmknfo,23,Female,2.48,Engineering
+S00197,Wcsrafpj,23,Male,3.96,Engineering
+S00198,Diwhrrkq,22,Female,3.72,Computer Science
+S00199,Fzghrycn,24,Male,2.93,Biology
+S00200,Fwvnyylq,18,Female,3.72,Physics
+S00201,Nxmiqwkn,18,Male,3.9,Physics
+S00202,Cricbtpn,22,Female,2.06,Economics
+S00203,Ugyltnyw,19,Female,3.22,Mathematics
+S00204,Resqwyes,23,Male,2.27,Biology
+S00205,Hodzosnp,18,Male,2.31,Biology
+S00206,Qouqhlae,18,Female,2.86,Chemistry
+S00207,Jvhkbasd,20,Female,3.05,Biology
+S00208,Ccqezirk,25,Female,2.42,Biology
+S00209,Xfjxmsyd,20,Male,3.59,Economics
+S00210,Pcctwnii,22,Female,3.54,Chemistry
+S00211,Reiscyeh,19,Male,3.57,Computer Science
+S00212,Ghiabxmh,21,Female,3.64,Chemistry
+S00213,Agndlozq,24,Male,3.43,Engineering
+S00214,Jajbbeiw,24,Female,2.95,Biology
+S00215,Avmjjoqy,22,Female,2.74,Economics
+S00216,Votgoskz,22,Male,2.15,Biology
+S00217,Xrlgtnhh,24,Male,2.53,Engineering
+S00218,Mlsxxdgs,22,Male,3.7,Biology
+S00219,Tsdyhrjw,18,Female,2.77,Mathematics
+S00220,Rpegpjof,23,Female,3.98,Computer Science
+S00221,Egctkvcc,21,Male,2.27,Chemistry
+S00222,Hhfhqtxi,22,Male,3.75,Chemistry
+S00223,Ycjqwrns,20,Female,2.64,Computer Science
+S00224,Tbkkpejq,21,Male,2.25,Mathematics
+S00225,Qamxncfr,22,Male,2.64,Chemistry
+S00226,Ipmewebp,24,Male,2.3,Computer Science
+S00227,Cilmyoww,23,Male,3.33,Chemistry
+S00228,Zycsfyqh,25,Female,3.37,Chemistry
+S00229,Isuqvovm,23,Female,2.11,Engineering
+S00230,Bomtjpek,25,Male,3.27,Biology
+S00231,Tbfsepgj,25,Female,3.98,Mathematics
+S00232,Tyuajwrm,23,Male,2.23,Economics
+S00233,Hxxqfhnj,24,Female,3.09,Computer Science
+S00234,Ikeazpeu,20,Female,3.72,Economics
+S00235,Xsmelkzb,21,Female,3.78,Physics
+S00236,Shttrpol,18,Male,2.47,Engineering
+S00237,Bptsznho,22,Female,2.03,Mathematics
+S00238,Wqwxwngo,25,Female,3.96,Mathematics
+S00239,Bloakslz,19,Female,2.07,Mathematics
+S00240,Lqbntijf,19,Male,2.07,Chemistry
+S00241,Zhzhebkx,24,Female,2.07,Engineering
+S00242,Fcoycwya,19,Female,2.09,Computer Science
+S00243,Buoewsrr,19,Male,3.42,Mathematics
+S00244,Gglmztfm,21,Female,3.48,Engineering
+S00245,Kfdatjxv,21,Female,2.4,Physics
+S00246,Gutfhtts,21,Male,3.2,Engineering
+S00247,Idiuwynm,24,Female,2.16,Biology
+S00248,Vikqikzn,22,Male,3.99,Computer Science
+S00249,Vrgswmrg,19,Female,3.77,Physics
+S00250,Uaejktex,24,Male,3.67,Engineering
+S00251,Tlbulbyh,24,Female,3.74,Computer Science
+S00252,Mrhmhmuv,25,Male,2.75,Economics
+S00253,Tndjnzeh,19,Female,2.8,Computer Science
+S00254,Fefqubkn,22,Male,3.69,Computer Science
+S00255,Fgsvrrcj,19,Female,3.32,Biology
+S00256,Avcaklmg,21,Male,3.63,Biology
+S00257,Hfcdugtk,20,Female,2.42,Physics
+S00258,Vtyylxdc,22,Male,3.61,Engineering
+S00259,Exqyltbg,20,Male,3.47,Economics
+S00260,Uintatrj,24,Female,2.71,Chemistry
+S00261,Mwolhbbm,21,Female,3.79,Physics
+S00262,Bexaqnuf,19,Female,2.81,Engineering
+S00263,Flbmokzc,19,Female,3.96,Chemistry
+S00264,Emyejvce,25,Male,3.0,Engineering
+S00265,Jbkjwgve,19,Female,2.28,Chemistry
+S00266,Peeldmut,21,Female,3.28,Chemistry
+S00267,Ixsgmaum,19,Male,3.84,Economics
+S00268,Kgxyyvig,19,Female,3.71,Mathematics
+S00269,Flqbdxgj,25,Female,3.2,Economics
+S00270,Slkghnrz,18,Male,2.53,Engineering
+S00271,Uasozkjl,22,Male,3.11,Physics
+S00272,Onfeusfs,20,Female,2.15,Mathematics
+S00273,Vjxwvdrw,21,Male,2.66,Chemistry
+S00274,Mieudfbq,22,Male,2.65,Computer Science
+S00275,Mluapjgo,24,Female,2.62,Mathematics
+S00276,Gsetzyqo,19,Male,3.87,Mathematics
+S00277,Uprxiopi,18,Female,3.96,Engineering
+S00278,Ztwpfvvh,20,Female,3.86,Biology
+S00279,Mhkvgijs,21,Female,2.46,Economics
+S00280,Unnakjfh,19,Female,3.92,Chemistry
+S00281,Ccwzswxb,25,Female,2.03,Mathematics
+S00282,Biwonmnw,23,Female,3.88,Mathematics
+S00283,Vpkmadxs,18,Male,2.88,Mathematics
+S00284,Wsdvayyl,18,Male,2.28,Chemistry
+S00285,Ymhfshmk,24,Male,3.37,Mathematics
+S00286,Oviwfxet,18,Male,3.29,Engineering
+S00287,Jwchosgq,24,Male,2.01,Mathematics
+S00288,Kkolgctv,18,Female,3.2,Physics
+S00289,Boiruklp,25,Female,3.41,Mathematics
+S00290,Cxqknhlj,21,Female,2.39,Economics
+S00291,Dwvokymg,25,Male,3.7,Computer Science
+S00292,Eunctack,23,Male,2.46,Engineering
+S00293,Mmytdrya,18,Female,2.43,Engineering
+S00294,Ueujmxws,19,Female,3.42,Computer Science
+S00295,Avnxsbwo,24,Female,3.9,Physics
+S00296,Afhalluw,22,Male,2.41,Computer Science
+S00297,Sgssbwgj,23,Female,3.53,Chemistry
+S00298,Pphgpmni,18,Male,3.57,Physics
+S00299,Dullpnwp,22,Male,2.05,Economics
+S00300,Wdgrkfnr,18,Female,2.39,Chemistry
+S00301,Rkbmevzi,19,Female,2.58,Biology
+S00302,Rzpbidbs,21,Female,2.28,Computer Science
+S00303,Axvfgmkb,25,Female,3.12,Chemistry
+S00304,Dzzubpce,24,Male,2.94,Biology
+S00305,Vzbmmcws,23,Female,2.13,Mathematics
+S00306,Hqezkxip,22,Male,2.03,Computer Science
+S00307,Iuywvlla,19,Male,3.36,Chemistry
+S00308,Aaaiqoqb,23,Male,2.4,Chemistry
+S00309,Xsbfclie,25,Male,2.7,Biology
+S00310,Eidurjka,25,Male,3.15,Chemistry
+S00311,Qjtutckx,18,Female,2.68,Biology
+S00312,Scahehsb,18,Female,2.83,Economics
+S00313,Slbdfrcw,23,Male,3.51,Engineering
+S00314,Mjqtrtdh,21,Female,3.23,Economics
+S00315,Rexonsym,20,Female,2.79,Biology
+S00316,Csetcefe,24,Female,2.35,Physics
+S00317,Ncbjelpi,22,Female,3.95,Economics
+S00318,Rsbtwhvt,18,Female,3.32,Physics
+S00319,Zwoubfzn,20,Female,3.22,Physics
+S00320,Qkadxqyv,20,Female,3.13,Engineering
+S00321,Yxqnzwnn,24,Female,3.94,Engineering
+S00322,Jmezlism,23,Male,3.48,Biology
+S00323,Jihgprzi,18,Female,2.66,Biology
+S00324,Kvcmrzdv,24,Male,3.34,Physics
+S00325,Djyxgaik,20,Female,3.44,Engineering
+S00326,Biurpdhc,25,Male,3.31,Physics
+S00327,Zrqctcrd,19,Male,3.63,Physics
+S00328,Owuuevyb,22,Female,3.3,Mathematics
+S00329,Tnuratei,19,Female,3.87,Chemistry
+S00330,Wirczhdw,19,Male,2.25,Mathematics
+S00331,Dpdwowqg,21,Male,2.55,Computer Science
+S00332,Hvjrexjj,19,Female,2.82,Computer Science
+S00333,Ebswoqzf,20,Female,3.42,Biology
+S00334,Gnjmpoku,23,Female,2.08,Physics
+S00335,Ahxvwosw,24,Male,2.34,Computer Science
+S00336,Fxlonruc,19,Male,3.98,Physics
+S00337,Ngyebfwf,20,Female,3.41,Computer Science
+S00338,Ifueqppz,23,Female,3.16,Chemistry
+S00339,Btbrrkjk,21,Male,3.84,Computer Science
+S00340,Ibczachc,23,Female,2.39,Chemistry
+S00341,Elzlczat,25,Female,3.67,Chemistry
+S00342,Bvbrnexb,23,Female,3.43,Engineering
+S00343,Oasfsutk,24,Male,2.5,Economics
+S00344,Fsmkehyd,24,Female,2.88,Physics
+S00345,Unlmjhgt,23,Male,2.01,Economics
+S00346,Mkvbilur,22,Female,3.37,Physics
+S00347,Dhvdspzy,19,Male,2.9,Engineering
+S00348,Cwougzto,25,Female,2.67,Physics
+S00349,Owtdecum,20,Female,3.1,Economics
+S00350,Vlpylgjx,23,Male,3.57,Chemistry
+S00351,Kgbquxrx,18,Male,2.33,Biology
+S00352,Cexqiwow,19,Male,3.25,Engineering
+S00353,Qylkylex,24,Male,3.39,Physics
+S00354,Hryobmhb,20,Male,2.29,Chemistry
+S00355,Pmhjmeke,19,Female,2.14,Biology
+S00356,Asabdlpe,20,Male,3.08,Biology
+S00357,Msroxliy,18,Male,2.69,Computer Science
+S00358,Bpvzqkyf,20,Female,3.11,Physics
+S00359,Rzdjqfho,23,Female,3.24,Biology
+S00360,Vxjieupk,22,Male,2.36,Economics
+S00361,Jnrccczx,18,Male,2.43,Biology
+S00362,Vgkxylmo,21,Female,3.17,Chemistry
+S00363,Hlezaywj,22,Male,2.01,Physics
+S00364,Gxuxgnmb,21,Male,3.07,Computer Science
+S00365,Tiqgummh,20,Male,2.52,Computer Science
+S00366,Xebzfquj,25,Female,3.35,Computer Science
+S00367,Qkfrmbll,18,Female,3.27,Economics
+S00368,Lgkxfpkd,18,Male,3.56,Physics
+S00369,Htaihhzy,23,Male,2.17,Computer Science
+S00370,Jjurtyaf,18,Male,2.95,Biology
+S00371,Lnqhrery,20,Male,2.67,Biology
+S00372,Mbwfftsl,25,Female,3.3,Economics
+S00373,Bkzqwywn,24,Male,2.51,Biology
+S00374,Kwefdpvb,23,Male,3.95,Engineering
+S00375,Xruytpeo,24,Male,2.04,Computer Science
+S00376,Abpiaaob,24,Female,3.99,Economics
+S00377,Lmaoxgwg,25,Male,2.99,Engineering
+S00378,Lcfwfmdg,19,Male,3.19,Physics
+S00379,Qznhcqbm,22,Male,3.9,Economics
+S00380,Vrskbfsq,23,Female,2.99,Engineering
+S00381,Wxtmrqii,24,Female,3.0,Computer Science
+S00382,Xzhohkez,25,Female,2.59,Mathematics
+S00383,Lojiajmk,19,Female,3.39,Engineering
+S00384,Lansjvlr,20,Male,3.55,Physics
+S00385,Zhqzpavo,23,Female,3.42,Economics
+S00386,Tcnmlxyj,22,Female,3.59,Engineering
+S00387,Qqczwudw,22,Female,2.11,Physics
+S00388,Egsqfugv,23,Male,3.34,Economics
+S00389,Ahzqmjsb,22,Female,3.98,Mathematics
+S00390,Utexxhay,18,Male,2.22,Economics
+S00391,Eicoxvuz,20,Male,3.02,Physics
+S00392,Ghyqozkq,20,Male,3.59,Computer Science
+S00393,Qjfoghhj,20,Male,2.32,Mathematics
+S00394,Qdfhmwgp,25,Female,3.16,Physics
+S00395,Rtggftwh,19,Female,3.03,Economics
+S00396,Vimklcff,23,Male,3.99,Biology
+S00397,Soaogvpz,19,Female,3.93,Biology
+S00398,Pworvaph,23,Male,2.57,Computer Science
+S00399,Ncbcisxn,19,Female,2.48,Mathematics
+S00400,Jffvaozf,18,Female,3.07,Biology
+S00401,Mwtbkqxi,25,Male,2.67,Physics
+S00402,Kwuhdtid,24,Female,3.58,Computer Science
+S00403,Obczhudp,18,Female,3.99,Mathematics
+S00404,Pvoxdskr,22,Female,3.08,Physics
+S00405,Pyvoxhcf,24,Male,3.64,Computer Science
+S00406,Sebwwigd,20,Female,3.44,Economics
+S00407,Xtmiexqe,21,Female,2.82,Engineering
+S00408,Rrmoljrv,19,Female,2.31,Biology
+S00409,Xzqanppl,24,Male,2.21,Physics
+S00410,Biqqovoo,20,Male,2.28,Biology
+S00411,Cccjrpsq,22,Female,3.6,Computer Science
+S00412,Qdnysmnh,23,Female,3.87,Mathematics
+S00413,Zvpsoepw,25,Female,3.88,Mathematics
+S00414,Lrysxmoh,22,Male,3.25,Mathematics
+S00415,Fmgnwmzl,20,Male,3.08,Mathematics
+S00416,Tyclewep,25,Male,3.78,Mathematics
+S00417,Xeliknpl,19,Female,2.03,Computer Science
+S00418,Gafxnbfn,18,Female,2.9,Economics
+S00419,Ynicoocx,19,Male,3.76,Mathematics
+S00420,Oyawoxlz,22,Female,3.49,Physics
+S00421,Pjvxedhh,24,Female,3.48,Chemistry
+S00422,Fvpbrkvu,21,Male,2.17,Mathematics
+S00423,Utkgbwml,25,Female,3.25,Chemistry
+S00424,Kzeapacb,22,Female,3.12,Biology
+S00425,Pwprlbsn,24,Female,2.1,Engineering
+S00426,Wyyqssbi,25,Female,2.73,Chemistry
+S00427,Xqnlziqe,19,Male,2.69,Chemistry
+S00428,Mpjmtqwn,24,Female,3.95,Physics
+S00429,Wjuxwcpf,19,Female,3.92,Physics
+S00430,Hjcguvea,20,Female,3.68,Engineering
+S00431,Yxngwtvs,20,Male,2.26,Engineering
+S00432,Cfvftonc,22,Male,2.85,Mathematics
+S00433,Atyvlpmt,23,Male,3.43,Economics
+S00434,Sljubfmr,23,Male,2.73,Computer Science
+S00435,Tanxadtn,23,Female,3.75,Engineering
+S00436,Sxgzaekv,24,Male,2.86,Physics
+S00437,Gzkeqcfz,22,Male,2.04,Chemistry
+S00438,Ehcvgpdf,24,Male,2.22,Computer Science
+S00439,Rrvdjmag,18,Female,3.18,Biology
+S00440,Jgyslcks,19,Male,3.68,Economics
+S00441,Fzplovph,19,Female,3.96,Engineering
+S00442,Rahtecai,20,Male,2.56,Engineering
+S00443,Xqxpjdtb,23,Male,2.05,Physics
+S00444,Vwrqqubm,20,Male,2.11,Computer Science
+S00445,Xngnlcld,20,Female,3.73,Economics
+S00446,Ccojrupd,19,Male,3.19,Chemistry
+S00447,Xuzgydha,18,Male,2.64,Engineering
+S00448,Kopgtuzx,21,Female,3.13,Biology
+S00449,Cgesgpze,24,Male,2.11,Engineering
+S00450,Sbwsigiz,20,Female,3.57,Physics
+S00451,Vvyemksh,23,Female,2.89,Chemistry
+S00452,Txqtcjkf,19,Female,2.39,Computer Science
+S00453,Swkuhmfp,21,Female,3.6,Physics
+S00454,Jnievqhb,25,Male,3.7,Biology
+S00455,Xcvkbbsj,21,Female,3.38,Computer Science
+S00456,Qhepgxdd,20,Female,3.43,Economics
+S00457,Mysfhshb,19,Female,3.53,Engineering
+S00458,Qaelbqmg,20,Male,2.16,Physics
+S00459,Lvdhnmxe,22,Male,2.17,Mathematics
+S00460,Sfvosbty,20,Male,3.24,Computer Science
+S00461,Cgelyxvj,23,Female,2.94,Computer Science
+S00462,Arkxoreb,21,Male,3.95,Chemistry
+S00463,Gsrdqmwk,19,Male,3.13,Engineering
+S00464,Rdwqauaz,22,Female,3.94,Physics
+S00465,Mxauhkus,23,Female,3.93,Engineering
+S00466,Vjokqpll,24,Female,2.5,Computer Science
+S00467,Athgdljs,21,Male,2.96,Computer Science
+S00468,Knsrrcmc,23,Female,3.06,Mathematics
+S00469,Uddhnbhq,24,Female,3.0,Engineering
+S00470,Mwmoivmp,23,Male,2.16,Computer Science
+S00471,Dfbzwnwu,22,Female,3.39,Computer Science
+S00472,Kursvilk,21,Female,3.02,Economics
+S00473,Wkhfhzhh,22,Female,3.06,Chemistry
+S00474,Acwnbsak,20,Male,2.79,Computer Science
+S00475,Glelvrms,22,Male,3.75,Engineering
+S00476,Ykgexgrg,25,Male,2.57,Computer Science
+S00477,Tjuxavtm,19,Male,3.23,Computer Science
+S00478,Qlglxnvi,19,Male,2.72,Computer Science
+S00479,Ldewtasv,21,Female,2.08,Biology
+S00480,Baluqmlo,19,Female,2.95,Chemistry
+S00481,Jfryxucy,18,Male,3.25,Engineering
+S00482,Sacozrov,23,Male,2.68,Biology
+S00483,Nfpjtjkv,25,Female,3.61,Computer Science
+S00484,Pxgqechi,19,Female,3.94,Chemistry
+S00485,Ytywgvkf,25,Female,2.79,Engineering
+S00486,Rreeuyhy,22,Male,3.78,Computer Science
+S00487,Kmotuqck,21,Female,2.21,Physics
+S00488,Balkpiny,25,Female,3.51,Chemistry
+S00489,Nfjmihtz,22,Male,2.34,Biology
+S00490,Vrfycupp,19,Male,2.68,Physics
+S00491,Hzgldpum,24,Female,2.21,Economics
+S00492,Qtyymgcs,24,Female,2.61,Physics
+S00493,Alzhttjf,20,Male,3.25,Chemistry
+S00494,Dijrvkdq,20,Female,3.05,Physics
+S00495,Wewpkcla,20,Female,3.99,Chemistry
+S00496,Nwgsclei,25,Female,2.4,Physics
+S00497,Ytsekrph,22,Female,3.69,Economics
+S00498,Lvtshohi,18,Male,2.99,Computer Science
+S00499,Lxlnptqm,19,Female,3.69,Mathematics
+S00500,Jowhwfjw,24,Male,3.88,Chemistry
+S00501,Xahtxdam,19,Male,2.31,Engineering
+S00502,Evmztvku,21,Female,3.09,Physics
+S00503,Unceancq,23,Female,2.89,Mathematics
+S00504,Bbhmimkk,24,Male,2.02,Biology
+S00505,Khajyzhq,22,Female,3.84,Mathematics
+S00506,Xkcdxepc,23,Female,2.53,Biology
+S00507,Grrwulwa,24,Female,3.88,Chemistry
+S00508,Cdtreilu,25,Female,2.03,Economics
+S00509,Wghiaiqi,21,Female,3.63,Mathematics
+S00510,Xjkjuuxt,23,Male,2.61,Biology
+S00511,Vyploqcl,21,Female,2.23,Mathematics
+S00512,Yucolhmh,18,Female,3.43,Computer Science
+S00513,Owmohsjy,24,Male,3.11,Physics
+S00514,Loggmnwc,25,Male,3.68,Economics
+S00515,Btceeecc,21,Female,2.98,Chemistry
+S00516,Avwwwjzk,21,Female,2.18,Biology
+S00517,Bngtvlvm,21,Male,3.43,Economics
+S00518,Tzelegbh,21,Male,3.72,Economics
+S00519,Iggxjbfa,21,Female,3.3,Computer Science
+S00520,Coegzlql,23,Male,3.06,Chemistry
+S00521,Ujosslcb,23,Male,3.28,Biology
+S00522,Apcqnebv,23,Female,2.82,Economics
+S00523,Awmewsxm,22,Male,3.5,Computer Science
+S00524,Recdrqds,25,Female,2.76,Engineering
+S00525,Djoxgdwb,23,Female,2.1,Computer Science
+S00526,Neyddqba,20,Male,3.43,Physics
+S00527,Qfdpedox,20,Male,2.73,Physics
+S00528,Aiigwmed,20,Female,2.07,Engineering
+S00529,Rbpbbqet,20,Female,3.77,Biology
+S00530,Nhlquwhi,25,Male,2.56,Engineering
+S00531,Neilldca,20,Male,2.79,Economics
+S00532,Exstiyia,22,Female,2.47,Economics
+S00533,Euqnmeob,25,Female,2.08,Computer Science
+S00534,Cvnieykn,23,Female,3.57,Engineering
+S00535,Apapjdwl,25,Female,2.62,Computer Science
+S00536,Leryjozu,21,Female,3.65,Engineering
+S00537,Pgjkprfj,23,Female,3.94,Computer Science
+S00538,Atlygzwt,20,Female,2.14,Mathematics
+S00539,Hywshbqn,25,Male,3.92,Engineering
+S00540,Sxkmwxto,19,Female,2.2,Chemistry
+S00541,Luopwsdt,20,Female,2.49,Mathematics
+S00542,Xvjmxozn,23,Female,2.28,Economics
+S00543,Xiywabnr,24,Male,2.32,Engineering
+S00544,Zvohqfbg,18,Female,3.49,Mathematics
+S00545,Vaicrcio,25,Male,2.55,Physics
+S00546,Ypsklxda,18,Male,2.53,Engineering
+S00547,Hqtqvenq,19,Female,2.45,Physics
+S00548,Qwrsvale,25,Female,2.5,Physics
+S00549,Luuftctt,25,Female,3.02,Physics
+S00550,Jdzbzayg,19,Male,3.14,Mathematics
+S00551,Tmyjsyij,20,Female,2.75,Biology
+S00552,Fpdfuzrp,20,Female,2.05,Mathematics
+S00553,Bztfktaw,21,Female,2.34,Computer Science
+S00554,Epzqqfjn,21,Male,2.89,Computer Science
+S00555,Ubfocgkf,19,Female,3.4,Engineering
+S00556,Axsadloh,20,Male,3.15,Computer Science
+S00557,Wsusmjki,25,Male,2.2,Mathematics
+S00558,Cascmlze,21,Female,3.52,Chemistry
+S00559,Dpwbywhw,24,Male,2.34,Biology
+S00560,Iufgczcc,20,Female,2.27,Computer Science
+S00561,Cnnwebfl,18,Male,2.1,Computer Science
+S00562,Cgkznzct,22,Male,2.55,Economics
+S00563,Wyyosibt,21,Male,2.85,Chemistry
+S00564,Qipffeep,20,Female,2.52,Chemistry
+S00565,Qtjkmpwy,25,Male,3.58,Mathematics
+S00566,Ijmreewx,22,Female,2.37,Economics
+S00567,Yicdgwsn,22,Female,2.28,Economics
+S00568,Edqrbxbp,19,Female,2.65,Economics
+S00569,Vverfaol,20,Male,2.57,Biology
+S00570,Mdiadmbz,20,Female,2.76,Computer Science
+S00571,Gnepqtxe,25,Male,2.58,Computer Science
+S00572,Aprxyfsw,23,Male,3.51,Economics
+S00573,Kylepdkn,24,Female,3.87,Physics
+S00574,Pulimtpc,20,Female,2.5,Biology
+S00575,Zkhcfmgz,22,Female,3.41,Engineering
+S00576,Htwbovuy,18,Female,2.58,Chemistry
+S00577,Fnpckjum,21,Male,2.77,Computer Science
+S00578,Wxawblou,18,Female,3.6,Biology
+S00579,Xsbilpce,18,Female,2.22,Economics
+S00580,Rqalgwxn,25,Female,3.84,Chemistry
+S00581,Mhxkdjuo,22,Female,3.63,Physics
+S00582,Zyptitlf,19,Male,3.21,Mathematics
+S00583,Oqtqyapo,19,Female,3.34,Biology
+S00584,Phposybh,25,Male,2.14,Computer Science
+S00585,Tvyqbzzi,21,Male,2.99,Mathematics
+S00586,Ikcokddo,20,Male,3.97,Physics
+S00587,Aatbwtnb,23,Male,2.77,Computer Science
+S00588,Xiurtesy,21,Male,2.49,Economics
+S00589,Mhklsxlx,18,Male,2.42,Economics
+S00590,Kyfqhxpv,20,Male,3.07,Physics
+S00591,Qbbjpzqj,19,Male,3.77,Mathematics
+S00592,Aukkkckc,25,Male,2.74,Chemistry
+S00593,Hfhuqngo,19,Female,2.19,Engineering
+S00594,Vhinpsti,19,Female,2.61,Mathematics
+S00595,Zceavzhu,25,Female,3.41,Mathematics
+S00596,Ucfsrmzy,20,Female,3.91,Engineering
+S00597,Rsmgvuhy,23,Male,2.19,Economics
+S00598,Nkqyevox,20,Female,2.89,Physics
+S00599,Kosyfmwk,22,Male,3.24,Mathematics
+S00600,Lbgtrszx,24,Male,2.28,Biology
+S00601,Bqnbpvmp,22,Male,2.06,Chemistry
+S00602,Ybdanlbq,23,Male,2.95,Engineering
+S00603,Hxbdxcdk,20,Female,3.61,Physics
+S00604,Apinexfn,21,Female,2.77,Mathematics
+S00605,Cmxagfnr,25,Male,3.43,Mathematics
+S00606,Jnrmalup,21,Female,3.29,Engineering
+S00607,Vnfgwusx,24,Female,3.37,Economics
+S00608,Gcbpojqq,24,Female,3.61,Economics
+S00609,Fqpxmuck,19,Male,3.55,Computer Science
+S00610,Cveiicvz,22,Female,3.64,Chemistry
+S00611,Zqejklal,21,Male,2.22,Chemistry
+S00612,Fbgqhiex,24,Male,2.71,Economics
+S00613,Paeyeeya,20,Male,3.41,Chemistry
+S00614,Vysvvjqn,22,Male,2.83,Economics
+S00615,Vqmukdpl,19,Female,3.34,Biology
+S00616,Zaqlvmgs,22,Female,3.07,Engineering
+S00617,Ucrpxpcb,19,Male,2.58,Biology
+S00618,Lhuwgldg,25,Female,2.69,Chemistry
+S00619,Oafxdanq,22,Female,2.16,Computer Science
+S00620,Ahrbzxdc,19,Female,2.33,Chemistry
+S00621,Zlpetadb,21,Female,3.24,Biology
+S00622,Mvmxoyke,20,Male,3.55,Economics
+S00623,Srlchbow,20,Female,2.17,Biology
+S00624,Ubkajzxm,24,Female,2.03,Biology
+S00625,Hqzxjjup,22,Male,2.15,Physics
+S00626,Dxhpzhpf,23,Male,2.26,Chemistry
+S00627,Xkgczjst,22,Male,2.1,Physics
+S00628,Sivchmpx,20,Female,2.62,Computer Science
+S00629,Lvnipxdt,22,Female,2.32,Computer Science
+S00630,Dxfvwllm,23,Male,3.08,Economics
+S00631,Urcnjoic,24,Female,2.26,Economics
+S00632,Mfyydeok,19,Female,3.91,Economics
+S00633,Pkwdcaup,25,Male,2.57,Biology
+S00634,Xdkrafca,24,Male,2.75,Physics
+S00635,Ebukctgm,21,Male,2.94,Computer Science
+S00636,Wuyctflk,25,Male,3.49,Mathematics
+S00637,Iqaqozgl,23,Female,2.15,Economics
+S00638,Pidsoubh,20,Male,3.37,Engineering
+S00639,Vjrkngbd,20,Female,2.36,Engineering
+S00640,Iljhzqdt,23,Male,2.95,Mathematics
+S00641,Vpaadnou,22,Male,2.69,Mathematics
+S00642,Hzlibgrt,23,Male,2.06,Chemistry
+S00643,Tatiaqhw,22,Female,3.07,Economics
+S00644,Dukjepka,19,Male,3.05,Chemistry
+S00645,Zgsxvwwi,21,Male,3.83,Computer Science
+S00646,Jilvwadp,22,Female,3.97,Chemistry
+S00647,Sulayfct,18,Female,3.51,Biology
+S00648,Ylotxpcg,24,Female,2.23,Biology
+S00649,Tscopugy,22,Female,3.08,Mathematics
+S00650,Ndwsxrya,18,Female,2.0,Chemistry
+S00651,Eiumcgla,21,Female,2.88,Chemistry
+S00652,Mzsueumz,19,Female,3.82,Engineering
+S00653,Crmotzze,25,Female,3.84,Chemistry
+S00654,Etxfyqnu,20,Male,3.4,Physics
+S00655,Gvtnaiwj,19,Female,3.24,Engineering
+S00656,Heuhnkfx,24,Male,2.68,Economics
+S00657,Fauappwl,21,Female,3.31,Chemistry
+S00658,Fyvzmkwn,20,Female,2.21,Biology
+S00659,Sootghoy,22,Male,2.36,Computer Science
+S00660,Ldnlchio,22,Female,3.2,Biology
+S00661,Rrvalwfh,19,Female,2.47,Physics
+S00662,Axitmkyz,23,Male,2.66,Economics
+S00663,Ynclxptc,18,Female,3.71,Chemistry
+S00664,Jimaljle,21,Male,3.36,Engineering
+S00665,Bylvgwix,20,Female,3.17,Chemistry
+S00666,Azynamit,25,Male,2.81,Biology
+S00667,Qhjieolg,24,Male,3.51,Biology
+S00668,Dyztgxtg,23,Female,3.98,Economics
+S00669,Mqfuznai,20,Female,2.6,Mathematics
+S00670,Dgqhbboy,25,Female,3.76,Economics
+S00671,Yqucqjiv,20,Female,2.95,Physics
+S00672,Rqwwgehc,22,Male,3.49,Engineering
+S00673,Nnlomecy,24,Female,2.28,Physics
+S00674,Gdvxlmir,24,Female,2.24,Economics
+S00675,Qmrlwyqk,18,Male,2.11,Mathematics
+S00676,Zscnfnun,20,Female,3.65,Physics
+S00677,Tsxhglhz,21,Female,2.95,Physics
+S00678,Tcghjepb,19,Female,2.98,Economics
+S00679,Tjbfscps,25,Male,2.64,Mathematics
+S00680,Jfpjmeyq,20,Male,3.12,Computer Science
+S00681,Jdulrnjs,19,Female,2.34,Physics
+S00682,Bzgxcsxi,25,Male,2.82,Physics
+S00683,Dadyaqsu,22,Female,2.53,Economics
+S00684,Stqzxeus,19,Male,2.01,Economics
+S00685,Nkupkisl,21,Male,2.41,Economics
+S00686,Ptlxxgxw,24,Male,3.25,Computer Science
+S00687,Drcjqxiu,22,Male,2.74,Mathematics
+S00688,Noijokzc,20,Male,3.12,Computer Science
+S00689,Dmqhhpxl,19,Female,2.07,Biology
+S00690,Bseubxci,21,Female,2.85,Economics
+S00691,Ytlijyjh,22,Female,3.35,Chemistry
+S00692,Vtkkfybu,20,Female,3.35,Economics
+S00693,Rbtzcyyq,25,Male,2.39,Economics
+S00694,Jeiaewew,19,Female,2.82,Biology
+S00695,Mxznnqcx,25,Female,2.06,Engineering
+S00696,Dvevfxbh,24,Male,3.68,Biology
+S00697,Mvcuemex,25,Female,2.98,Physics
+S00698,Rffgavde,25,Male,3.84,Mathematics
+S00699,Xvhnnkgh,21,Female,3.72,Physics
+S00700,Cgnklaxe,20,Male,2.33,Chemistry
+S00701,Csnfnsqv,24,Female,2.21,Chemistry
+S00702,Hlxadjdz,18,Female,3.5,Mathematics
+S00703,Pculnrii,20,Male,2.59,Physics
+S00704,Jykimlsk,21,Male,2.12,Biology
+S00705,Qbzgxvym,22,Male,2.68,Biology
+S00706,Vlrrjbnv,18,Female,2.8,Economics
+S00707,Jfrltdoe,25,Male,2.3,Physics
+S00708,Hvjaoqcr,20,Female,3.57,Economics
+S00709,Zhpuiyeo,18,Female,2.07,Chemistry
+S00710,Yqzibhnp,21,Male,2.65,Engineering
+S00711,Fbksvxbw,22,Male,3.19,Engineering
+S00712,Pnbxvicr,23,Male,2.95,Biology
+S00713,Dtdfhwun,21,Male,2.08,Engineering
+S00714,Lufuwbyz,18,Male,2.21,Mathematics
+S00715,Urvweuiy,20,Male,2.81,Economics
+S00716,Cgbhpggu,25,Male,2.78,Economics
+S00717,Eaiixylz,18,Female,3.93,Economics
+S00718,Flgrnuwh,21,Male,2.07,Biology
+S00719,Txwnctig,18,Female,3.57,Chemistry
+S00720,Vbybwwov,22,Female,2.02,Computer Science
+S00721,Cvgidpoi,24,Female,3.58,Economics
+S00722,Mvfablwu,21,Male,3.34,Mathematics
+S00723,Pwtezffu,20,Male,3.58,Physics
+S00724,Gjhsbauj,23,Female,3.06,Physics
+S00725,Rdmeaypq,25,Female,3.18,Chemistry
+S00726,Brswdadq,23,Female,3.56,Chemistry
+S00727,Pvvqypwi,19,Male,3.31,Chemistry
+S00728,Vecwbhxc,18,Female,3.24,Economics
+S00729,Qcjwgnxl,22,Female,2.16,Engineering
+S00730,Kcohscji,23,Female,3.63,Computer Science
+S00731,Hrlkcddc,22,Male,2.58,Physics
+S00732,Zkbddivk,24,Female,2.94,Mathematics
+S00733,Syaqpblx,25,Female,2.57,Mathematics
+S00734,Crxrztkg,19,Male,2.5,Physics
+S00735,Fptxmvhc,20,Male,3.35,Chemistry
+S00736,Zojktlug,18,Male,2.62,Chemistry
+S00737,Rfstnwbw,20,Male,2.2,Engineering
+S00738,Cmclhemf,19,Male,3.07,Mathematics
+S00739,Ecwrwrcj,21,Female,3.91,Mathematics
+S00740,Aipgdxws,18,Male,3.17,Mathematics
+S00741,Hudujifa,22,Female,3.19,Economics
+S00742,Khsbslhm,23,Male,2.43,Physics
+S00743,Bdhljmga,20,Male,2.63,Mathematics
+S00744,Agbvnpum,25,Female,2.5,Economics
+S00745,Hgkdqvam,19,Male,3.42,Economics
+S00746,Sfzinvjs,19,Male,3.25,Engineering
+S00747,Ibxrsgob,18,Female,2.22,Biology
+S00748,Wybnzqlt,22,Female,2.98,Biology
+S00749,Qxmzysel,20,Female,3.07,Computer Science
+S00750,Rxjiqije,18,Female,3.9,Engineering
+S00751,Hwkxefxy,25,Female,2.15,Engineering
+S00752,Orklgdbl,23,Male,2.39,Economics
+S00753,Qeapbyyi,24,Female,2.79,Mathematics
+S00754,Azxzicmk,22,Male,3.42,Engineering
+S00755,Sqikanrl,24,Female,3.55,Mathematics
+S00756,Gtcwpmsw,23,Male,3.96,Computer Science
+S00757,Nbtlwjww,24,Female,2.67,Engineering
+S00758,Wcolyxdj,19,Male,3.86,Engineering
+S00759,Nwprlfyx,23,Male,3.29,Computer Science
+S00760,Gglqksgw,19,Male,2.99,Physics
+S00761,Xpuurbrl,18,Male,2.95,Mathematics
+S00762,Ndztrgfp,22,Male,3.92,Biology
+S00763,Odyrrhci,18,Female,2.96,Engineering
+S00764,Nenlynhq,22,Female,2.94,Biology
+S00765,Funnprrw,21,Female,2.93,Economics
+S00766,Cjxmsfvb,20,Female,3.79,Chemistry
+S00767,Sslrgmil,23,Female,3.39,Biology
+S00768,Nvrfykbw,24,Male,3.07,Chemistry
+S00769,Ubrtpkag,25,Female,3.58,Biology
+S00770,Udnqqtmk,19,Female,2.26,Economics
+S00771,Ptxhoiov,19,Male,3.65,Physics
+S00772,Qjnckxou,22,Female,3.2,Chemistry
+S00773,Zxdgitzl,20,Female,2.18,Economics
+S00774,Ntdilddp,22,Male,3.17,Physics
+S00775,Apbngusd,19,Female,3.6,Economics
+S00776,Mulbeskr,18,Female,2.75,Physics
+S00777,Enxdanja,24,Male,3.73,Chemistry
+S00778,Sbqpprav,22,Male,3.19,Biology
+S00779,Qwnxwwpz,25,Male,2.31,Biology
+S00780,Kqugsqgf,20,Male,2.73,Chemistry
+S00781,Xkvjrubf,18,Female,3.16,Engineering
+S00782,Xgndxxlv,18,Female,2.02,Engineering
+S00783,Wvdrczkk,19,Male,3.35,Engineering
+S00784,Tpcdjwqv,20,Female,2.77,Computer Science
+S00785,Zzrxsuhp,22,Female,2.23,Economics
+S00786,Ldbtpnac,20,Female,3.94,Mathematics
+S00787,Oqsvxwiw,19,Male,2.02,Engineering
+S00788,Himpvgji,24,Male,2.66,Mathematics
+S00789,Kihsyfux,25,Male,3.3,Engineering
+S00790,Mcwwlncf,22,Male,2.23,Computer Science
+S00791,Ilyghspa,21,Male,2.1,Biology
+S00792,Anuchaav,19,Female,3.91,Physics
+S00793,Nqpkbgtx,19,Male,2.35,Economics
+S00794,Xyvokvix,21,Male,3.23,Mathematics
+S00795,Qdxrizue,18,Female,3.94,Chemistry
+S00796,Mtqvriku,20,Female,3.48,Physics
+S00797,Xlvfrgir,21,Female,3.86,Engineering
+S00798,Zxbuwrfh,24,Male,2.79,Economics
+S00799,Jtdkadwe,23,Male,2.16,Computer Science
+S00800,Pmiygrea,21,Female,3.59,Engineering
+S00801,Qjguwytg,22,Female,2.67,Economics
+S00802,Ckunpfbs,21,Male,3.52,Computer Science
+S00803,Jzeyayon,25,Male,3.28,Economics
+S00804,Bepdzdig,23,Female,3.19,Biology
+S00805,Wvtfwjzy,22,Female,2.5,Mathematics
+S00806,Ddzpdbat,18,Male,3.0,Chemistry
+S00807,Trdndpfs,21,Male,2.43,Mathematics
+S00808,Vgkflgbv,19,Male,3.61,Computer Science
+S00809,Ludjjfzs,21,Female,2.43,Engineering
+S00810,Odxavira,23,Female,3.71,Economics
+S00811,Mlubidix,18,Male,2.88,Computer Science
+S00812,Ondjrieq,24,Male,3.89,Computer Science
+S00813,Ridrivdb,18,Male,3.71,Mathematics
+S00814,Kklsagsz,19,Male,3.99,Physics
+S00815,Ygvrhmkl,21,Male,3.65,Economics
+S00816,Mvywgukw,25,Female,2.01,Mathematics
+S00817,Oaoxlonq,24,Female,3.79,Physics
+S00818,Hbsvlkje,18,Female,3.68,Engineering
+S00819,Hnjsthqq,24,Female,3.41,Engineering
+S00820,Qluhtaxj,23,Male,2.68,Biology
+S00821,Nlypqlen,20,Male,3.87,Computer Science
+S00822,Iunlyiap,22,Male,2.59,Biology
+S00823,Qbgklhdd,19,Female,3.87,Computer Science
+S00824,Yhptwxek,21,Female,2.17,Economics
+S00825,Sldhlghy,24,Male,2.4,Physics
+S00826,Iffyumeo,20,Male,2.72,Biology
+S00827,Yzyilghp,22,Female,2.87,Physics
+S00828,Mvhxaxtw,21,Male,3.37,Mathematics
+S00829,Zshtbsvv,18,Female,3.76,Computer Science
+S00830,Bcipihjr,23,Female,3.81,Economics
+S00831,Dwrtdhlc,21,Male,2.72,Computer Science
+S00832,Uexdnbri,24,Male,2.37,Computer Science
+S00833,Cwbtprdf,20,Male,2.32,Engineering
+S00834,Merdtcfa,25,Male,2.46,Engineering
+S00835,Lylbgzdh,24,Female,3.95,Computer Science
+S00836,Tezmonnq,19,Female,3.01,Biology
+S00837,Zyyafzns,25,Female,3.02,Mathematics
+S00838,Jwmwiazf,20,Male,2.79,Chemistry
+S00839,Lzlygjtc,19,Male,3.18,Physics
+S00840,Dmlalrwa,18,Male,2.68,Economics
+S00841,Suwiukza,21,Female,2.16,Mathematics
+S00842,Cxgcjonw,23,Female,3.82,Economics
+S00843,Pwaccpsl,21,Female,2.5,Biology
+S00844,Cjwbzcka,18,Female,3.0,Biology
+S00845,Flnwtvcg,23,Female,2.12,Biology
+S00846,Ddhdprvl,21,Male,3.57,Physics
+S00847,Zdnawasz,19,Male,2.64,Biology
+S00848,Juuhykpe,22,Female,3.75,Physics
+S00849,Uosdqtfo,24,Female,3.39,Biology
+S00850,Ocrdlsvq,22,Female,2.06,Chemistry
+S00851,Urebllzf,23,Female,3.18,Physics
+S00852,Naqwtbnm,23,Male,3.84,Engineering
+S00853,Nioopfel,24,Male,3.69,Computer Science
+S00854,Yeeboxcd,20,Female,2.34,Computer Science
+S00855,Irgxfgxj,25,Female,2.89,Economics
+S00856,Hdkyqavh,24,Female,2.06,Engineering
+S00857,Oerawtea,20,Male,3.91,Economics
+S00858,Qstfqlwi,21,Female,2.13,Computer Science
+S00859,Nubteahz,22,Female,2.48,Biology
+S00860,Nlavwbke,23,Female,2.72,Biology
+S00861,Jeeduvss,24,Female,3.8,Computer Science
+S00862,Lrraaplx,25,Male,3.15,Biology
+S00863,Yetiwpya,21,Female,3.6,Economics
+S00864,Sedcqjst,21,Female,3.73,Economics
+S00865,Awqubxbq,21,Male,2.98,Economics
+S00866,Sppnctvv,20,Male,2.36,Mathematics
+S00867,Uxzgwyfe,19,Male,2.98,Computer Science
+S00868,Vbaxjpdt,22,Male,2.46,Mathematics
+S00869,Bgurgeec,24,Male,3.33,Chemistry
+S00870,Ojlwxzpy,22,Male,3.58,Computer Science
+S00871,Zvdlqsmb,22,Female,3.74,Chemistry
+S00872,Rpnkkcpw,22,Female,3.68,Physics
+S00873,Yjfwbthj,25,Female,2.83,Physics
+S00874,Ehijszpj,24,Female,2.14,Chemistry
+S00875,Beyrfoul,18,Female,3.27,Economics
+S00876,Balfijtl,24,Female,3.18,Physics
+S00877,Encidgrb,19,Male,3.06,Biology
+S00878,Nlfdzfsg,25,Male,3.56,Engineering
+S00879,Wpxbxdlx,25,Female,2.94,Chemistry
+S00880,Ejwhrkfc,21,Male,2.18,Economics
+S00881,Jcdolvep,21,Female,2.27,Biology
+S00882,Vvuuzrxe,24,Male,2.78,Computer Science
+S00883,Liabckdo,22,Female,2.83,Computer Science
+S00884,Vlqxmsud,25,Female,2.5,Computer Science
+S00885,Dewgpwoh,23,Male,3.87,Economics
+S00886,Qohmdkta,19,Male,3.54,Economics
+S00887,Uedexrpe,19,Male,2.59,Economics
+S00888,Dtoinxpj,22,Male,3.02,Engineering
+S00889,Nmkglnjz,19,Male,3.02,Physics
+S00890,Fhohmzch,23,Male,2.9,Physics
+S00891,Knsfrllg,25,Female,3.03,Mathematics
+S00892,Fmpshtin,19,Male,3.27,Engineering
+S00893,Ksyqjhid,18,Female,3.02,Chemistry
+S00894,Yehigvbn,23,Female,2.55,Computer Science
+S00895,Uzrezoop,24,Male,2.61,Chemistry
+S00896,Ytnlhxpz,25,Male,3.61,Economics
+S00897,Eadihsvd,20,Male,3.25,Biology
+S00898,Aydwwjwy,18,Female,3.32,Biology
+S00899,Pdcpynxv,24,Male,3.21,Chemistry
+S00900,Ytlealti,22,Male,3.95,Computer Science
+S00901,Lizuuqgb,20,Female,2.37,Computer Science
+S00902,Hqlhibaw,18,Female,2.72,Physics
+S00903,Jikgoyez,23,Female,2.75,Computer Science
+S00904,Vrczwtbp,25,Female,2.57,Computer Science
+S00905,Eptehhaq,24,Female,2.33,Economics
+S00906,Tjwibwpg,19,Female,3.06,Mathematics
+S00907,Yovsydba,23,Male,2.11,Mathematics
+S00908,Uiawhalq,19,Female,2.52,Physics
+S00909,Gcphhkco,18,Female,3.48,Mathematics
+S00910,Oviaxuqw,18,Female,3.15,Economics
+S00911,Cmtdnreq,22,Male,2.87,Economics
+S00912,Dvkmfdrs,23,Male,3.41,Mathematics
+S00913,Uqrheuzw,18,Male,2.79,Physics
+S00914,Ujphbsee,18,Male,2.23,Computer Science
+S00915,Cnytzopb,22,Female,2.41,Physics
+S00916,Pqodhxos,25,Female,2.86,Physics
+S00917,Nhjqfmtv,23,Female,2.05,Engineering
+S00918,Nnbaxbpi,22,Male,3.09,Engineering
+S00919,Pfzxdptr,23,Female,2.29,Biology
+S00920,Uhfrbdje,22,Male,2.23,Computer Science
+S00921,Cvgbwbeh,20,Female,3.17,Chemistry
+S00922,Znsbupkk,19,Female,2.09,Physics
+S00923,Zvcuabqk,21,Male,2.74,Mathematics
+S00924,Kelcasxc,20,Male,2.73,Computer Science
+S00925,Wwkhdxin,24,Female,2.44,Biology
+S00926,Euwcopow,25,Female,3.87,Mathematics
+S00927,Fvwzrywq,21,Female,2.09,Mathematics
+S00928,Bsqepric,21,Male,3.99,Computer Science
+S00929,Tvdwqerz,22,Female,3.91,Biology
+S00930,Aizosklj,20,Male,3.5,Mathematics
+S00931,Sjkwoewp,24,Male,2.87,Physics
+S00932,Julasizm,21,Male,3.18,Mathematics
+S00933,Vivoctbv,20,Male,2.19,Economics
+S00934,Eqtofbnc,18,Female,2.22,Economics
+S00935,Nhuaewwz,21,Male,2.26,Engineering
+S00936,Vwgraxba,25,Male,3.94,Economics
+S00937,Ldgbdegy,25,Female,3.06,Physics
+S00938,Pjumhkhu,19,Female,3.43,Biology
+S00939,Xvxbszmy,23,Male,3.99,Chemistry
+S00940,Vkywhebz,18,Female,2.94,Computer Science
+S00941,Rddoiibj,21,Male,2.7,Computer Science
+S00942,Ygstocda,20,Male,2.01,Chemistry
+S00943,Inungywy,18,Female,2.07,Engineering
+S00944,Prtzmkuw,23,Male,3.96,Engineering
+S00945,Choeiixi,18,Male,2.04,Biology
+S00946,Jjhqicbu,22,Female,3.82,Computer Science
+S00947,Fgbcdoba,21,Female,3.95,Economics
+S00948,Ivwjihpo,23,Female,3.69,Mathematics
+S00949,Zprwbhtf,20,Female,3.99,Chemistry
+S00950,Whjmabnc,18,Male,2.08,Chemistry
+S00951,Duhnzgli,18,Male,3.63,Economics
+S00952,Vivuxvnq,23,Female,2.37,Engineering
+S00953,Rlwmrvgd,18,Female,3.3,Physics
+S00954,Mimuvyqk,21,Male,2.34,Engineering
+S00955,Vbrebzrd,19,Male,3.19,Mathematics
+S00956,Mturrhiv,21,Female,2.57,Economics
+S00957,Scbcghlh,23,Female,2.66,Economics
+S00958,Voxbfpvc,23,Female,2.92,Computer Science
+S00959,Kzcaower,25,Male,3.78,Chemistry
+S00960,Xyjrymit,21,Female,2.85,Engineering
+S00961,Gtbldyff,25,Female,2.62,Mathematics
+S00962,Ueqtfvdt,25,Male,3.4,Mathematics
+S00963,Qrgdxmwj,19,Male,2.32,Chemistry
+S00964,Uzbnuhmi,20,Male,3.1,Mathematics
+S00965,Xbgjjydk,25,Male,3.24,Physics
+S00966,Ejxgdpbl,21,Female,2.48,Mathematics
+S00967,Rcymqvos,20,Male,2.59,Mathematics
+S00968,Dizutrau,23,Female,3.09,Physics
+S00969,Xkizufry,22,Male,3.19,Biology
+S00970,Gfsdwwmk,18,Female,2.26,Economics
+S00971,Tgttfvdy,23,Male,2.11,Physics
+S00972,Hzuqqmty,25,Male,2.08,Engineering
+S00973,Efwtjmuo,24,Female,3.73,Economics
+S00974,Jpoeetae,23,Male,3.27,Computer Science
+S00975,Cizgekuq,18,Male,3.33,Mathematics
+S00976,Mqjskqhg,24,Female,3.42,Engineering
+S00977,Gjsljbzy,18,Male,2.03,Engineering
+S00978,Gsjcfxby,23,Male,3.35,Mathematics
+S00979,Ebgjegic,25,Male,3.46,Engineering
+S00980,Hkwjxvpp,23,Female,3.69,Physics
+S00981,Apbhsvby,20,Male,3.97,Mathematics
+S00982,Vanjbojr,24,Male,2.19,Engineering
+S00983,Sxfmsajk,23,Male,3.37,Chemistry
+S00984,Bfvquzdd,25,Female,3.72,Biology
+S00985,Ucgyrxuv,19,Female,2.88,Biology
+S00986,Pabwjeqw,18,Male,3.6,Mathematics
+S00987,Isefhcdb,25,Female,3.54,Mathematics
+S00988,Eufnmtmo,25,Male,3.67,Chemistry
+S00989,Plcfdtas,19,Female,3.24,Biology
+S00990,Tceouspu,24,Male,2.59,Computer Science
+S00991,Vvazpflw,23,Male,2.1,Mathematics
+S00992,Bevlesve,19,Male,3.41,Mathematics
+S00993,Xezkaowy,18,Female,2.73,Biology
+S00994,Nyonqbhx,19,Female,2.06,Mathematics
+S00995,Czttkebc,18,Male,3.4,Biology
+S00996,Pkkncjnx,24,Female,3.19,Mathematics
+S00997,Amyyvnly,20,Female,3.28,Economics
+S00998,Nudbcbfl,24,Male,3.45,Economics
+S00999,Nykjpnkt,20,Male,3.23,Chemistry
+S01000,Rwulyznz,24,Female,2.95,Computer Science
