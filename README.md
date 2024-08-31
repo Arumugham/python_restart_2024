@@ -133,3 +133,12 @@ Sure, here's a structured 30-day plan to help you get back into programming with
 - **Exercise:** Examples include a web application, a data analysis project, or an automation script.
 
 Throughout this plan, ensure you document your progress, take notes, and seek help from online communities if you encounter difficulties. This structured approach will help you rebuild your programming skills and confidence.
+
+
+
+#How to create an environment?
+python -m venv <name_of_your_environment>
+
+
+#How to activate an environment?
+source flaskcheckenv/bin/activate
